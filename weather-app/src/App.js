@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import natula from './img/Neutral_Backgrounds.jpg'
 import React, { useState, useEffect} from 'react';
 import './App.css';
 // A searchbar meg a magyar városok dropdownja
