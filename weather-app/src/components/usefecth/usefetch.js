@@ -4,7 +4,7 @@ import {useEffect} from 'react';
 // var iconurl = "http://openweathermap.org/img/w/" + iconcode + ".png";
 
 // APIendpoint - Innen származnak az adatok 
-export const  mainUrls={ URL : "http://api.openweathermap.org/data/2.5/weather",
+export const  mainUrls={ URL : "//api.openweathermap.org/data/2.5/weather",
                          API_key : "88819b23426fc788e6079b2cca861c71"
                         };
 
